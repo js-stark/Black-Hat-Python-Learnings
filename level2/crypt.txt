@@ -1,0 +1,8 @@
+admin:password
+admin:password7627
+manner:mannerism
+gorg:gorg24314
+vkkohli:imvkkholi
+root:GHpzDyyNFUBeU
+admin:root
+root:root

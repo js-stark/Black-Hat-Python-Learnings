@@ -1,0 +1,8 @@
+admin:administrator
+1253522436:2536253723
+rooot:msfadmin
+kali:kali
+root:root
+msfadmin:msfadmin
+kali123:kali321
+owasp:owasparrot
